@@ -1,0 +1,18 @@
+{
+    "deeepDir": "./src/deeep-system",
+    "project": {
+        "name": "Hello World",
+        "uuid": "fca4a090-e53b-413d-a82b-4b1045e08e7e",
+        "projectSettings": {
+            "unit": "px",
+            "styling": "scss",
+            "language": "js",
+            "framework": "react",
+            "styleMode": "external"
+        },
+        "version": 0.1,
+        "components": {
+            "Frame1": 1
+        }
+    }
+}
