@@ -1,3 +1,6 @@
 [submodule "deeep-system"]
 	path = deeep-system
 	url = https://github.com/anthonychemaly/deeep-system.git
+[submodule "user-project-ai"]
+	path = user-project-ai
+	url = http://34.205.68.194:3000/admin/user-project-ai.git
